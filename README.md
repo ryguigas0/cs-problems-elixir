@@ -1,4 +1,4 @@
-# ProblemSolving
-### These are my solutions to computer science problems with elixir
+# Computer Science Problems solved with Elixir!
+### These are my solutions using elixir
 
 ### Unfortunently some explanations and problems are in brazillian portuguese
